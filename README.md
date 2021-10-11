@@ -39,8 +39,7 @@ The purpose of this project is to analyse the performance of each IPL season wit
 
 ## 3. Project Flow
 
-
-https://github.com/sonaliverma/IPL-Season-wise-performance-Analysis/issues/1#issue-1022030264
+![](images/ipl.jpeg)
 
 
 
