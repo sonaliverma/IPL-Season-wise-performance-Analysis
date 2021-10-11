@@ -39,7 +39,7 @@ The purpose of this project is to analyse the performance of each IPL season wit
 
 ## 3. Project Flow
 
-![](images/ipl.jpeg)
+![](Images/ipl.jpeg)
 
 
 
