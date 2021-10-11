@@ -10,8 +10,8 @@ Minimum System Requirements
 •	Memory: 4GB of RAM (4GB or more recommended)
 •	Internet Explorer 10.0 or higher
 •	Oracle 11G / SQL server 2012 or higher 
-•	Informatica 10.2.0/SSIS/Data Stage/ Abinitio
-•	Tableau Desktop/SSRS/Power BI/ Qlikview
+•	Data Stage
+•	Qlikview
 
 ## 2.	PROBLEM STATEMENT
 
@@ -40,6 +40,20 @@ The purpose of this project is to analyse the performance of each IPL season wit
 ## 3. Project Flow
 
 ![](Images/ipl.jpeg)
+
+In the design & analysis phase we basically design the flow of project and a brief analysis of our implementation phase.
+Three primary activities of this stage are:
+Gathering business requirements.
+Creating process diagram.
+Performing a detailed analysis.
+
+
+## 4. Schema Design
+
+![](Images/image.png)
+
+
+
 
 
 
