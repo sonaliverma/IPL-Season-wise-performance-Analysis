@@ -11,7 +11,7 @@ Minimum System Requirements
 •	Internet Explorer 10.0 or higher
 •	Oracle 11G / SQL server 2012 or higher 
 •	Data Stage
-•	Qlikview
+•	Qlik Sense
 
 ## 2.	PROBLEM STATEMENT
 
@@ -33,8 +33,8 @@ The purpose of this project is to analyse the performance of each IPL season wit
 
 #### Technology Used:
 •	Oracle 11G/ SQL server(Database)
-•	Informatica power center / SSIS / Data Stage / Abinitio (ETL Tool) 
-•	Tableau Desktop / SSRS / Power BI/ Qlikview / Microsoft Excel (Reporting Tool)
+•	 Data Stage
+•	 Qlik Sense 
 
 
 ## 3. Project Flow
